@@ -23,12 +23,16 @@ Here are some of the projects I've worked on:
 1. Metaverse
    - https://github.com/DV192/metaverse
    - https://metaverse-dv192.vercel.app/
-
-2. Anime Vault
+   
+2. Brainwave
+   - https://github.com/DV192/brainwave
+   - https://brainwave-dv192.vercel.app/
+   
+3. Anime Vault
    - https://github.com/DV192/anime-vault
    - https://anime-vault-dv192.vercel.app/
 
-3. Easify
+4. Easify
    - https://github.com/DV192/Stonecrusher/wiki
    - https://youtu.be/bew9wTbHdXg
 
