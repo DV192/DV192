@@ -20,19 +20,27 @@ I'm Varun Patel, a front-end developer passionate about creating engaging user e
 
 Here are some of the projects I've worked on:
 
-1. Metaverse
-   - https://github.com/DV192/metaverse
-   - https://metaverse-dv192.vercel.app/
-   
+1. Sparkle Butterfly
+   - https://github.com/DV192/sparkle-butterfly
+   - https://sparkle-butterfly.vercel.app/
+
 2. Brainwave
    - https://github.com/DV192/brainwave
    - https://brainwave-dv192.vercel.app/
-   
-3. Anime Vault
+
+3. Metaverse
+   - https://github.com/DV192/metaverse
+   - https://metaverse-dv192.vercel.app/
+
+4. Anime Vault
    - https://github.com/DV192/anime-vault
    - https://anime-vault-dv192.vercel.app/
 
-4. Easify
+5. The Next Dimensions
+   - https://github.com/DV192/the-next-dimensions
+   - https://the-next-dimensions.vercel.app/
+
+6. Easify
    - https://github.com/DV192/Stonecrusher/wiki
    - https://youtu.be/bew9wTbHdXg
 
