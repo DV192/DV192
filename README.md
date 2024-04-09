@@ -46,7 +46,7 @@ Here are some of the projects I've worked on:
 
 ## 💬 Let's Connect!
 
-I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](#https://www.linkedin.com/in/varun-patel-3660ab233/) or via email at varunvarshil111@gmail.com
+I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/varun-patel-3660ab233/) or via email at varunvarshil111@gmail.com
 .
 
 Happy coding! 🚀
