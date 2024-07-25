@@ -20,13 +20,13 @@ I'm Varun Patel, a front-end developer passionate about creating engaging user e
 
 Here are some of the projects I've worked on:
 
-1. Sparkle Butterfly
-   - https://github.com/DV192/sparkle-butterfly
-   - https://sparkle-butterfly.vercel.app/
-
-2. Particle Symphony
+1. Particle Symphony
    - https://github.com/DV192/particle-symphony
    - https://particle-symphony.vercel.app/
+
+2. Sparkle Butterfly
+   - https://github.com/DV192/sparkle-butterfly
+   - https://sparkle-butterfly.vercel.app/
 
 3. Brainwave
    - https://github.com/DV192/brainwave
