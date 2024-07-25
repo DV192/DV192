@@ -24,23 +24,27 @@ Here are some of the projects I've worked on:
    - https://github.com/DV192/sparkle-butterfly
    - https://sparkle-butterfly.vercel.app/
 
-2. Brainwave
+2. Particle Symphony
+   - https://github.com/DV192/particle-symphony
+   - https://particle-symphony.vercel.app/
+
+3. Brainwave
    - https://github.com/DV192/brainwave
    - https://brainwave-dv192.vercel.app/
 
-3. Metaverse
+4. Metaverse
    - https://github.com/DV192/metaverse
    - https://metaverse-dv192.vercel.app/
 
-4. Anime Vault
+5. Anime Vault
    - https://github.com/DV192/anime-vault
    - https://anime-vault-dv192.vercel.app/
 
-5. The Next Dimensions
+6. The Next Dimensions
    - https://github.com/DV192/the-next-dimensions
    - https://the-next-dimensions.vercel.app/
 
-6. Easify
+7. Easify
    - https://github.com/DV192/Stonecrusher/wiki
    - https://youtu.be/bew9wTbHdXg
 
