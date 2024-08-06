@@ -23,7 +23,7 @@ I'm Varun Patel, a front-end developer passionate about creating engaging user e
 
 Here are some of the projects I've worked on:
 
-1. Particle Symphony
+1. Virtual Brochure
    - https://github.com/DV192/virtual-brochure
    - https://virtual-brochure.vercel.app/
 
