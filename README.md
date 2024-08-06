@@ -15,34 +15,37 @@ I'm Varun Patel, a front-end developer passionate about creating engaging user e
 - HTML
 - CSS
 - JavaScript
+- Tailwind CSS
+- Three.js
+- React Three Fiber
 
 ## 🌟 Projects
 
 Here are some of the projects I've worked on:
 
 1. Particle Symphony
+   - https://github.com/DV192/virtual-brochure
+   - https://virtual-brochure.vercel.app/
+
+2. Particle Symphony
    - https://github.com/DV192/particle-symphony
    - https://particle-symphony.vercel.app/
 
-2. Sparkle Butterfly
+3. Sparkle Butterfly
    - https://github.com/DV192/sparkle-butterfly
    - https://sparkle-butterfly.vercel.app/
 
-3. Brainwave
+4. Brainwave
    - https://github.com/DV192/brainwave
    - https://brainwave-dv192.vercel.app/
 
-4. Metaverse
+5. Metaverse
    - https://github.com/DV192/metaverse
    - https://metaverse-dv192.vercel.app/
 
-5. Anime Vault
+6. Anime Vault
    - https://github.com/DV192/anime-vault
    - https://anime-vault-dv192.vercel.app/
-
-6. The Next Dimensions
-   - https://github.com/DV192/the-next-dimensions
-   - https://the-next-dimensions.vercel.app/
 
 7. Easify
    - https://github.com/DV192/Stonecrusher/wiki
