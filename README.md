@@ -23,31 +23,35 @@ I'm Varun Patel, a front-end developer passionate about creating engaging user e
 
 Here are some of the projects I've worked on:
 
-1. Virtual Brochure
+1. AR Butterfly Experience
+   - https://github.com/DV192/ar-viewer
+   - https://ar-viewer-v1.web.app/
+
+2. Virtual Brochure
    - https://github.com/DV192/virtual-brochure
    - https://virtual-brochure.vercel.app/
 
-2. Particle Symphony
+3. Particle Symphony
    - https://github.com/DV192/particle-symphony
    - https://particle-symphony.vercel.app/
 
-3. Sparkle Butterfly
+4. Sparkle Butterfly
    - https://github.com/DV192/sparkle-butterfly
    - https://sparkle-butterfly.vercel.app/
 
-4. Brainwave
+5. Brainwave
    - https://github.com/DV192/brainwave
    - https://brainwave-dv192.vercel.app/
 
-5. Metaverse
+6. Metaverse
    - https://github.com/DV192/metaverse
    - https://metaverse-dv192.vercel.app/
 
-6. Anime Vault
+7. Anime Vault
    - https://github.com/DV192/anime-vault
    - https://anime-vault-dv192.vercel.app/
 
-7. Easify
+8. Easify
    - https://github.com/DV192/Stonecrusher/wiki
    - https://youtu.be/bew9wTbHdXg
 
