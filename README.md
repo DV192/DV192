@@ -19,8 +19,8 @@ I’m always up for talking code, creative ideas, or just having a fun chat abou
 
 Feel free to connect - whether you’ve got a question, want to collaborate, or just want to share something cool you're building. Just click below and I’ll get back to you!
 
-<a href="mailto:varunvarshil111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/varun-patel-3660ab233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:varunvarshil111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/varun-patel-3660ab233"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 
 _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
 
@@ -33,10 +33,10 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
   <div align="left">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-f06529?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" />
   </div>
 
 ### Creative / 3D Web
@@ -44,12 +44,12 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
   <div align="left">
     <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
     <img src="https://img.shields.io/badge/React Three Fiber-000000?style=flat&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Drei-000?style=flat&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postprocessing-181717?style=flat" />
-    <img src="https://img.shields.io/badge/Maath-181717?style=flat" />
-    <img src="https://img.shields.io/badge/r3f--perf-181717?style=flat" />
-    <img src="https://img.shields.io/badge/Lamina-181717?style=flat" />
-    <img src="https://img.shields.io/badge/Leva-181717?style=flat" />
+    <img src="https://img.shields.io/badge/Drei-000000?style=flat&logo=three.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postprocessing-000000?style=flat" />
+    <img src="https://img.shields.io/badge/Maath-000000?style=flat" />
+    <img src="https://img.shields.io/badge/Leva-000000?style=flat" />
+    <img src="https://img.shields.io/badge/r3f--perf-222222?style=flat" />
+    <img src="https://img.shields.io/badge/Lamina-222222?style=flat" />
     <img src="https://img.shields.io/badge/WebXR-FF6600?style=flat" />
     <img src="https://img.shields.io/badge/MindAR-0c4a6e?style=flat" />
   </div>
@@ -57,59 +57,59 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
 ### Motion & Interactivity
 
   <div align="left">
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
+    <img src="https://img.shields.io/badge/GSAP-0ae448?style=flat&logo=greensock&logoColor=black" />
+    <img src="https://img.shields.io/badge/Lenis-E30613?style=flat" />
+    <img src="https://img.shields.io/badge/Split Type-222222?style=flat" />
     <img src="https://img.shields.io/badge/Framer Motion-EF2D5E?style=flat&logo=framer&logoColor=white" />
-    <img src="https://img.shields.io/badge/Lenis (Smooth Scroll)-181717?style=flat" />
-    <img src="https://img.shields.io/badge/Split Type-181717?style=flat" />
-    <img src="https://img.shields.io/badge/Just Parallax-181717?style=flat" />
+    <img src="https://img.shields.io/badge/React Just Parallax-ff70b0?style=flat" />
   </div>
 
 ### Styling & UI Enhancements
 
   <div align="left">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat" />
-    <img src="https://img.shields.io/badge/Acernity-181717?style=flat" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/shadcn/ui-09090b?style=flat" />
+    <img src="https://img.shields.io/badge/Acernity-0a0a0a?style=flat" />
   </div>
 
 ### Forms, Validation & Email
 
   <div align="left">
-    <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat" />
-    <img src="https://img.shields.io/badge/Zod-5A67D8?style=flat" />
-    <img src="https://img.shields.io/badge/@hookform/resolvers-181717?style=flat" />
-    <img src="https://img.shields.io/badge/Resend-181717?style=flat" />
-    <img src="https://img.shields.io/badge/@react--email/components-181717?style=flat" />
+    <img src="https://img.shields.io/badge/React Hook Form-ec5990?style=flat" />
+    <img src="https://img.shields.io/badge/Zod-3068b7?style=flat" />
+    <img src="https://img.shields.io/badge/@hookform/resolvers-ec5990?style=flat" />
+    <img src="https://img.shields.io/badge/Resend-222222?style=flat" />
+    <img src="https://img.shields.io/badge/@react--email/components-222222?style=flat" />
   </div>
 
 ### State Management & Utilities
 
   <div align="left">
-    <img src="https://img.shields.io/badge/Zustand-8e44ad?style=flat" />
-    <img src="https://img.shields.io/badge/Jotai-41B883?style=flat" />
+    <img src="https://img.shields.io/badge/Zustand-582d3e?style=flat" />
+    <img src="https://img.shields.io/badge/Jotai-222222?style=flat" />
   </div>
 
 ### Dev Tools, Platforms & Deployment
 
   <div align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-f14e32?style=flat&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-fc6d26?style=flat&logo=gitlab&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-32e6e2?style=flat&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-ffc400?style=flat&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/VS Code-0078d4?style=flat&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-ff6c37?style=flat&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jira-1868db?style=flat&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-611f69?style=flat&logo=slack&logoColor=white" />
   </div>
 
 ### 3D Modeling & Assets
 
   <div align="left">
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Polyhaven-181717?style=flat" />
+    <img src="https://img.shields.io/badge/Blender-f4792b?style=flat&logo=blender&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sketchfab-1caad9?style=flat&logo=sketchfab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Polyhaven-222222?style=flat" />
   </div>
 
 ## 🌟 Projects
