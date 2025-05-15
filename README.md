@@ -117,6 +117,22 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://axe-mastery.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/DV192/axe-mastery/master/public/axe-mastery-screenshot.png" width="100%" alt="Axe Mastery"/>
+        <br/>
+        <strong>Axe Mastery</strong>
+      </a><br/>
+      <a href="https://github.com/DV192/axe-mastery">Code</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://radiant-particles.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/DV192/radiant-particles/master/public/radiant-particles-screenshot.png" width="100%" alt="Radiant Particles"/>
+        <br/>
+        <strong>Radiant Particles</strong>
+      </a><br/>
+      <a href="https://github.com/DV192/radiant-particles">Code</a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://ar-viewer-v1.web.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/DV192/ar-viewer/main/public/ar-viewer-screenshot-1.png" width="50%" alt="AR Viewer"/>
         <br/>
@@ -124,6 +140,8 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
       </a><br/>
       <a href="https://github.com/DV192/ar-viewer">Code</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://virtual-brochure.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/DV192/virtual-brochure/main/public/assets/virtual-brochure-screenshot.png" width="100%" alt="Virtual Brochure"/>
@@ -140,8 +158,6 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
       </a><br/>
       <a href="https://github.com/DV192/particle-symphony">Code</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://sparkle-butterfly.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/DV192/sparkle-butterfly/master/public/assets/sparkle-butterfly-screenshot.png" width="100%" alt="Sparkle Butterfly"/>
@@ -150,6 +166,8 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
       </a><br/>
       <a href="https://github.com/DV192/sparkle-butterfly">Code</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://the-next-dimensions.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/DV192/the-next-dimensions/master/public/the-next-dimensions-screenshot.png" width="100%" alt="The Next Dimensions "/>
@@ -166,8 +184,6 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
       </a><br/>
       <a href="https://github.com/DV192/anime-vault">Code</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://brainwave-dv192.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/DV192/brainwave/main/public/assets/brainwave-screenshot.png" width="100%" alt="Brainwave"/>
@@ -176,6 +192,8 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
       </a><br/>
       <a href="https://github.com/DV192/brainwave">Code</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://metaverse-dv192.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/DV192/metaverse/master/public/metaverse-screenshot.png" width="100%" alt="Metaverse"/>
@@ -192,8 +210,6 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
       </a><br/>
       <a href="https://github.com/DV192/rock-paper-scissors-lizard-spock-reactjs">Code</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://space-tourism-website-nextjs.vercel.app/home" target="_blank">
         <img src="https://raw.githubusercontent.com/DV192/space-tourism-website-nextjs/refs/heads/master/public/assets/home/background-home-desktop.jpg" width="100%" alt="Space Tourism"/>
