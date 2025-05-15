@@ -46,6 +46,7 @@ _Thanks for stopping by - let’s build, learn, and share together!_ 🚀
     <img src="https://img.shields.io/badge/React Three Fiber-000000?style=flat&logo=three.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Drei-000000?style=flat&logo=three.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Postprocessing-000000?style=flat" />
+    <img src="https://img.shields.io/badge/React Three Rapier-000000?style=flat" />
     <img src="https://img.shields.io/badge/Maath-000000?style=flat" />
     <img src="https://img.shields.io/badge/Leva-000000?style=flat" />
     <img src="https://img.shields.io/badge/r3f--perf-222222?style=flat" />
